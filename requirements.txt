@@ -1,0 +1,38 @@
+# Groq
+groq
+
+# Environment variables
+python-dotenv
+
+# RAG / LangChain
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Document loaders
+pypdf
+python-docx
+beautifulsoup4
+
+# Data processing
+numpy
+pandas
+
+# HTTP / API
+requests
+httpx
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+
+# Tokenization
+tiktoken
