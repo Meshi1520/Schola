@@ -4,9 +4,8 @@
 
 Upload your textbooks as PDFs, ask a question in plain English, and get a streamed answer along with the exact book and page it came from.
 
-🔗 **Live demo:** _add your Streamlit link here_
+🔗 **Live demo:** https://schola-fzpssnv5umbawbchuwrcr8.streamlit.app/
 
-![Schola screenshot](screenshot.png)
 
 ---
 
